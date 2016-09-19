@@ -14,13 +14,15 @@ Description and Instructions
  *
  */
 
-The application consists of an executable JAR file (raft.jar) and the following subfolders, which must be inside the folder containing the executable:
+The application consists of an executable JAR file (raft.jar) and the following subfolders, which must be
+inside the folder containing the executable:
 
 - database
 - libsAndPlugins
 - output
 
-The computer used to run the application must have the Java Runtime Environment installed. If needed, see instructions at:
+The computer used to run the application must have the Java Runtime Environment installed. If needed, see
+instructions at:
 
 https://www.java.com/en/download/help/download_options.xml
 
@@ -28,9 +30,12 @@ Further operating system specific instructions can be access by selecting the op
 
 https://www.java.com/en/download/help/index_installing.xml
 
-To run the application, double click raft.jar from a file browsing window or create a shortcut that points to this file.
+To run the application, double click raft.jar from a file browsing window or create a shortcut that points to
+this file.
 
-The application is designed to be run by a single user on a private computer. No access control is included. Use appropriate filesystem access restrictions if the application will contain sensitive or confidential information.
+The application is designed to be run by a single user on a private computer. No access control is included.
+Use appropriate filesystem access restrictions if the application will contain sensitive or confidential
+information.
 
 Reports display in the user's default browser and can be printed or saved using browser menu commands. 
 
@@ -84,7 +89,8 @@ Used to enable tablesorter plugin.
 
 http://ucanaccess.sourceforge.net/site.html
 
-UCanAccess is an open-source Java JDBC driver implementation. Because it is a pure Java implementation, it runs on both Windows and non-Windows operating systems (e.g., Linux/unix). No ODBC needed. UCanAccess uses:
+UCanAccess is an open-source Java JDBC driver implementation. Because it is a pure Java implementation, it runs
+on both Windows and non-Windows operating systems (e.g., Linux/unix). No ODBC needed. UCanAccess uses:
 
     Jackcess as MS Access input/output library (Web site: http://jackcess.sourceforge.net/).
     HSQLDB as synchronized DBMS (Web site: http://hsqldb.org/).
