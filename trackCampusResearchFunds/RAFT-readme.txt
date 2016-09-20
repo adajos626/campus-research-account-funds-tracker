@@ -15,7 +15,7 @@ Description and Instructions
  */
 
 The application consists of an executable JAR file (raft.jar) and the following subfolders, which must be
-inside the folder containing the executable:
+inside the folder containing the executable JAR file:
 
 - database
 - libsAndPlugins
@@ -26,7 +26,7 @@ instructions at:
 
 https://www.java.com/en/download/help/download_options.xml
 
-Further operating system specific instructions can be access by selecting the operating system of interest at:
+Further operating system specific instructions can be accessed by selecting the operating system of interest at:
 
 https://www.java.com/en/download/help/index_installing.xml
 
@@ -55,7 +55,7 @@ Used to style report table.
 
 - JGoodies
 
-http://www.jgoodies.com/downloads/libraries/
+v1.8.0 from http://www.jgoodies.com/downloads/libraries/
 jgoodies-common-1.8.0.jar
 jgoodies-forms-1.8.0.jar
 
@@ -75,7 +75,7 @@ Used to make report table sortable via clicking of column headers.
 
 - jQuery
 
-https://jquery.com/
+v1.12.4 from https://jquery.com/
 
 jQuery is provided under the MIT license.
 https://jquery.org/license/
@@ -87,7 +87,7 @@ Used to enable tablesorter plugin.
 
 - UCanAccess
 
-http://ucanaccess.sourceforge.net/site.html
+v3.0.6 from http://ucanaccess.sourceforge.net/site.html
 
 UCanAccess is an open-source Java JDBC driver implementation. Because it is a pure Java implementation, it runs
 on both Windows and non-Windows operating systems (e.g., Linux/unix). No ODBC needed. UCanAccess uses:
@@ -105,6 +105,6 @@ Used for read/write access to backend Microsoft Access database.
 
 - SwingX
 
-https://swingx.java.net/
+v1.6.4 from https://swingx.java.net/
 
 Used for JXDatePicker, a calendar dropdown Java Swing element for picking dates.
