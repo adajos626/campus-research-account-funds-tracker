@@ -56,8 +56,9 @@ Used to style report table.
 - JGoodies
 
 v1.8.0 from http://www.jgoodies.com/downloads/libraries/
-jgoodies-common-1.8.0.jar
-jgoodies-forms-1.8.0.jar
+
+   - jgoodies-common-1.8.0.jar
+   - jgoodies-forms-1.8.0.jar
 
 Used in form building.
 
