@@ -20,9 +20,10 @@ Description and Instructions
 The application consists of an executable JAR file (raft.jar) and the following subfolders, which must be
 inside the folder containing the executable JAR file:
 
-- database
-- libsAndPlugins
-- output
+- database (must contain the Access database template:  CampusResearchFunds.accdb)
+- libsAndPlugins (must contain:  jquery\1.12.4\jquery.min.js and tablesorter-js_v2.17.8\jquery.tablesorter.min.js
+      - and trans-report-html-bottom.txt and trans-report-html-top.txt)
+- output (empty folder)
 
 The computer used to run the application must have the Java Runtime Environment installed. If needed, see
 instructions at:
