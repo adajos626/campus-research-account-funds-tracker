@@ -58,9 +58,9 @@ Used to style report table.
 
 - JGoodies
 
-v1.8.0 from http://www.jgoodies.com/downloads/libraries/
-jgoodies-common-1.8.0.jar
-jgoodies-forms-1.8.0.jar
+v1.8.0 from http://www.jgoodies.com/downloads/libraries/<br>
+jgoodies-common-1.8.0.jar<br>
+jgoodies-forms-1.8.0.jar<br>
 
 Used in form building.
 
@@ -73,7 +73,7 @@ Original author (Christian Bach) description at http://tablesorter.com/docs/
 License from http://www.gnu.org/licenses/gpl.html
 
 <script type="text/javascript" src="../libsAndPlugins/tablesorter-js_v2.17.8/jquery.tablesorter.min.js"></script>
-
+<br>
 Used to make report table sortable via clicking of column headers.
 
 - jQuery
@@ -85,7 +85,7 @@ https://jquery.org/license/
 https://tldrlegal.com/license/mit-license
 
 <script type="text/javascript" src="../libsAndPlugins/jquery/1.12.4/jquery.min.js"></script>
-
+<br>
 Used to enable tablesorter plugin.
 
 - UCanAccess
@@ -99,14 +99,15 @@ on both Windows and non-Windows operating systems (e.g., Linux/unix). No ODBC ne
     HSQLDB as synchronized DBMS (Web site: http://hsqldb.org/).
 
 UCanAccess is issued on under the GNU Lesser General Public License 2.1.
-http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
+<br>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
 
 Starting with the 3.0.0 version, UCanAccess has been relicensed to Apache 2.0.
-http://www.apache.org/licenses/LICENSE-2.0
+<br>http://www.apache.org/licenses/LICENSE-2.0
 
 Used for read/write access to backend Microsoft Access database.
 
 - SwingX
 
-v1.6.4 from https://swingx.java.net/
+v1.6.4 from https://swingx.java.net/<br>
+
 Used for JXDatePicker, a calendar dropdown Java Swing element for picking dates.
