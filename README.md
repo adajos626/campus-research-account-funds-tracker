@@ -72,9 +72,9 @@ Original author (Christian Bach) description at http://tablesorter.com/docs/
 
 License from http://www.gnu.org/licenses/gpl.html
 
-<script type="text/javascript" src="../libsAndPlugins/tablesorter-js_v2.17.8/jquery.tablesorter.min.js"></script>
-<br>
-Used to make report table sortable via clicking of column headers.
+<script type="text/javascript" src="../libsAndPlugins/tablesorter-js_v2.17.8/jquery.tablesorter.min.js"></script><br>
+
+Used to make report table sortable via clicking of column headers.<br>
 
 - jQuery
 
@@ -84,9 +84,9 @@ jQuery is provided under the MIT license.
 https://jquery.org/license/
 https://tldrlegal.com/license/mit-license
 
-<script type="text/javascript" src="../libsAndPlugins/jquery/1.12.4/jquery.min.js"></script>
-<br>
-Used to enable tablesorter plugin.
+<script type="text/javascript" src="../libsAndPlugins/jquery/1.12.4/jquery.min.js"></script><br>
+
+Used to enable tablesorter plugin.<br>
 
 - UCanAccess
 
